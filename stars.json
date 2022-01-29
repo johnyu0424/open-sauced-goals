@@ -8,12 +8,12 @@
   {
     "full_name": "github-craftwork/start-here",
     "stargazers_count": 85,
-    "open_issues_count": 6,
+    "open_issues_count": 1,
     "forks_count": 101
   },
   {
     "full_name": "twilio/rtc-diagnostics",
-    "stargazers_count": 35,
+    "stargazers_count": 34,
     "open_issues_count": 2,
     "forks_count": 10
   },
@@ -26,7 +26,7 @@
   {
     "full_name": "meteor/meteor",
     "stargazers_count": 42805,
-    "open_issues_count": 136,
-    "forks_count": 5196
+    "open_issues_count": 134,
+    "forks_count": 5195
   }
 ]
