@@ -1,8 +1,8 @@
 [
   {
     "full_name": "LLK/scratch-www",
-    "stargazers_count": 1325,
-    "open_issues_count": 602,
+    "stargazers_count": 1326,
+    "open_issues_count": 605,
     "forks_count": 675
   },
   {
@@ -32,7 +32,7 @@
   {
     "full_name": "TwilioDevEd/api-snippets",
     "stargazers_count": 225,
-    "open_issues_count": 61,
+    "open_issues_count": 62,
     "forks_count": 434
   },
   {
@@ -44,19 +44,19 @@
   {
     "full_name": "Submitty/Submitty",
     "stargazers_count": 352,
-    "open_issues_count": 414,
-    "forks_count": 296
+    "open_issues_count": 415,
+    "forks_count": 297
   },
   {
     "full_name": "WarenGonzaga/gathertown.js",
     "stargazers_count": 11,
-    "open_issues_count": 3,
+    "open_issues_count": 4,
     "forks_count": 4
   },
   {
     "full_name": "PipedreamHQ/pipedream",
-    "stargazers_count": 2348,
-    "open_issues_count": 587,
+    "stargazers_count": 2362,
+    "open_issues_count": 592,
     "forks_count": 1456
   },
   {
@@ -74,7 +74,7 @@
   {
     "full_name": "twilio-labs/function-templates",
     "stargazers_count": 208,
-    "open_issues_count": 39,
+    "open_issues_count": 40,
     "forks_count": 196
   }
 ]
