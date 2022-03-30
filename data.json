@@ -1,9 +1,9 @@
 [
   {
     "full_name": "LLK/scratch-www",
-    "stargazers_count": 1333,
-    "open_issues_count": 588,
-    "forks_count": 682
+    "stargazers_count": 1334,
+    "open_issues_count": 587,
+    "forks_count": 683
   },
   {
     "full_name": "dkundel/create-project",
@@ -38,14 +38,14 @@
   {
     "full_name": "philnash/ngrok-for-vscode",
     "stargazers_count": 91,
-    "open_issues_count": 8,
+    "open_issues_count": 9,
     "forks_count": 8
   },
   {
     "full_name": "Submitty/Submitty",
-    "stargazers_count": 358,
-    "open_issues_count": 439,
-    "forks_count": 319
+    "stargazers_count": 359,
+    "open_issues_count": 430,
+    "forks_count": 320
   },
   {
     "full_name": "WarenGonzaga/gathertown.js",
@@ -55,9 +55,9 @@
   },
   {
     "full_name": "PipedreamHQ/pipedream",
-    "stargazers_count": 2457,
-    "open_issues_count": 608,
-    "forks_count": 1465
+    "stargazers_count": 2477,
+    "open_issues_count": 614,
+    "forks_count": 1466
   },
   {
     "full_name": "cweems/twilio-keyword",
@@ -73,8 +73,8 @@
   },
   {
     "full_name": "twilio-labs/function-templates",
-    "stargazers_count": 210,
-    "open_issues_count": 38,
-    "forks_count": 202
+    "stargazers_count": 211,
+    "open_issues_count": 37,
+    "forks_count": 203
   }
 ]
