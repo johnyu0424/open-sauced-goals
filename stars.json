@@ -1,7 +1,7 @@
 [
   {
     "full_name": "kclejeune/TMobile-ISP-Client",
-    "stargazers_count": 24,
+    "stargazers_count": 25,
     "open_issues_count": 9,
     "forks_count": 3
   },
@@ -13,9 +13,9 @@
   },
   {
     "full_name": "twilio/rtc-diagnostics",
-    "stargazers_count": 37,
+    "stargazers_count": 38,
     "open_issues_count": 2,
-    "forks_count": 10
+    "forks_count": 11
   },
   {
     "full_name": "philnash/github-weekends",
@@ -25,8 +25,8 @@
   },
   {
     "full_name": "meteor/meteor",
-    "stargazers_count": 42867,
-    "open_issues_count": 128,
-    "forks_count": 5198
+    "stargazers_count": 42872,
+    "open_issues_count": 134,
+    "forks_count": 5197
   }
 ]
